@@ -22,7 +22,7 @@ This project is a responsive landing page created as Task-01 from Level-1 for my
 - Inspiration for the design and functionality was drawn from modern web design principles and practices.
 - Guidance and support from the CodSoft development team.
 
-## View My Website Here: [Demo](https://hrjayasuryasingh9.github.io/CODSOFT/Level-1/Task-1)
+## View My Website Here: [https://harshini6280.github.io/CODSOFT/Level-1/Task-1/)
 
 **Author**: JYOTHINAGARAM HARSHINI
 
